@@ -1,0 +1,25 @@
+=======================Algorithm==============================
+
+Types of Data Structures 
+========================
+
+Linear Data Structures
+----------------------
+Array 📊 – Fixed-size collection of elements of the same type. Fast access but resizing is costly.
+Linked List 🔗 – A sequence of nodes, where each node points to the next. Good for dynamic memory usage.
+Stack 🥞 – LIFO (Last In, First Out), like a stack of plates.
+Queue 🚶‍♂️ – FIFO (First In, First Out), like a line at a store.
+Deque (Double-ended Queue) 🔄 – Elements can be added or removed from both ends.
+
+--------------------------------------------------------------
+2️ Non-Linear Data Structures
+------------------------
+Tree 🌳 – A hierarchical structure (e.g., Binary Tree, BST, AVL, B-Trees, etc.).
+Graph 🔗 – A set of nodes (vertices) connected by edges (can be directed or undirected).
+
+--------------------------------------------------------------
+3️ Hash-based Data Structures
+-------------------------
+Hash Table / Hash Map 🔑 – Uses a hashing function to store key-value pairs efficiently.
+
+==============================================================
